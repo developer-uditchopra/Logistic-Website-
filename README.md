@@ -1,4 +1,4 @@
-Logistics Website
+**Logistics Website**
 Welcome to the Logistics Website repository! This project is a dynamic web application developed to facilitate efficient logistics management. It leverages a combination of HTML, CSS, JavaScript, Bootstrap, jQuery, and SQL to deliver a seamless and interactive user experience.
 
 Table of Contents
